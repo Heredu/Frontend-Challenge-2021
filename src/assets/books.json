@@ -1,0 +1,1040 @@
+{
+    "config": {
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "maxContentLength": -1,
+        "method": "get",
+        "timeout": 0,
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "url": "https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=wMrIxYjKdpTQq76wy7ngPAG1OD0VJy8j",
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN"
+    },
+    "data": {
+        "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+        "last_modified": "2021-06-02T22:19:24-04:00",
+        "num_results": 15,
+        "results": {
+            "bestsellers_date": "2021-05-29",
+            "books": [
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/1250272939?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Nora Roberts",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250272935.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 329,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/e16ca793-6972-5d15-b08e-75fbdc8f96a9",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/1250272939?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=LEGACY&author=Nora+Roberts"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250272935"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLEGACY%252FNora%252BRoberts%252F9781250272935&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLEGACY%252BNora%252BRoberts"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250272935&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DLEGACY"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250272935%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLEGACY%2BNora%2BRoberts%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Nora Roberts",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Threats put in rhymes and sent from shifting locations escalate as the daughter of a successful fitness celebrity’s own yoga business grows.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "1250272939",
+                            "isbn13": "9781250272935"
+                        },
+                        {
+                            "isbn10": "1250272947",
+                            "isbn13": "9781250272942"
+                        },
+                        {
+                            "isbn10": "1250802350",
+                            "isbn13": "9781250802354"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "1250272939",
+                    "primary_isbn13": "9781250272935",
+                    "publisher": "St. Martin's",
+                    "rank": 1,
+                    "rank_last_week": 0,
+                    "sunday_review_link": "",
+                    "title": "LEGACY",
+                    "weeks_on_list": 1
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Laura Dave",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/1501171348?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+LAST+THING+HE+TOLD+ME&author=Laura+Dave"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252FLaura%252BDave%252F9781501171345&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252BLaura%252BDave"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501171345&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501171345%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2BLaura%2BDave%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Laura Dave",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "1501171348",
+                            "isbn13": "9781501171345"
+                        },
+                        {
+                            "isbn10": "1501171364",
+                            "isbn13": "9781501171369"
+                        },
+                        {
+                            "isbn10": "1797124749",
+                            "isbn13": "9781797124742"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "1501171348",
+                    "primary_isbn13": "9781501171345",
+                    "publisher": "Simon & Schuster",
+                    "rank": 2,
+                    "rank_last_week": 2,
+                    "sunday_review_link": "",
+                    "title": "THE LAST THING HE TOLD ME",
+                    "weeks_on_list": 4
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0385547684?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "John Grisham",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 342,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/010af0b7-2a30-598f-97f5-1ed63c3426e1",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0385547684?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=SOOLEY&author=John+Grisham"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547680"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSOOLEY%252FJohn%252BGrisham%252F9780385547680&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSOOLEY%252BJohn%252BGrisham"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385547680&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DSOOLEY"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385547680%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSOOLEY%2BJohn%2BGrisham%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by John Grisham",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0385547684",
+                            "isbn13": "9780385547680"
+                        },
+                        {
+                            "isbn10": "0385547714",
+                            "isbn13": "9780385547710"
+                        },
+                        {
+                            "isbn10": "0593459288",
+                            "isbn13": "9780593459287"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0385547684",
+                    "primary_isbn13": "9780385547680",
+                    "publisher": "Doubleday",
+                    "rank": 3,
+                    "rank_last_week": 1,
+                    "sunday_review_link": "",
+                    "title": "SOOLEY",
+                    "weeks_on_list": 5
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Andy Weir",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593135204.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "https://www.nytimes.com/2021/05/04/books/review/andy-weir-project-hail-mary.html",
+                    "book_uri": "nyt://book/36c6314a-7962-511c-b4c8-7927200740af",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0593135202?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=PROJECT+HAIL+MARY&author=Andy+Weir"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593135204"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FPROJECT%252BHAIL%252BMARY%252FAndy%252BWeir%252F9780593135204&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DPROJECT%252BHAIL%252BMARY%252BAndy%252BWeir"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593135204&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DPROJECT%2BHAIL%2BMARY"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593135204%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DPROJECT%2BHAIL%2BMARY%2BAndy%2BWeir%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Andy Weir",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0593135202",
+                            "isbn13": "9780593135204"
+                        },
+                        {
+                            "isbn10": "0593135210",
+                            "isbn13": "9780593135211"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0593135202",
+                    "primary_isbn13": "9780593135204",
+                    "publisher": "Ballantine",
+                    "rank": 4,
+                    "rank_last_week": 3,
+                    "sunday_review_link": "",
+                    "title": "PROJECT HAIL MARY",
+                    "weeks_on_list": 4
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0385546572?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Stacey Abrams",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385546577.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 333,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/cef54ed8-224a-5c72-989c-96b413c287d0",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0385546572?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=WHILE+JUSTICE+SLEEPS&author=Stacey+Abrams"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385546577"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWHILE%252BJUSTICE%252BSLEEPS%252FStacey%252BAbrams%252F9780385546577&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWHILE%252BJUSTICE%252BSLEEPS%252BStacey%252BAbrams"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385546577&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DWHILE%2BJUSTICE%2BSLEEPS"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385546577%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWHILE%2BJUSTICE%2BSLEEPS%2BStacey%2BAbrams%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Stacey Abrams",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "When Justice Wynn slips into a coma, his law clerk, Avery Keene, must unravel the clues of a controversial case.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0385546572",
+                            "isbn13": "9780385546577"
+                        },
+                        {
+                            "isbn10": "0593501764",
+                            "isbn13": "9780593501764"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0385546572",
+                    "primary_isbn13": "9780385546577",
+                    "publisher": "Doubleday",
+                    "rank": 5,
+                    "rank_last_week": 4,
+                    "sunday_review_link": "",
+                    "title": "WHILE JUSTICE SLEEPS",
+                    "weeks_on_list": 3
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Matt Haig",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0525559477?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+MIDNIGHT+LIBRARY&author=Matt+Haig"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BMIDNIGHT%252BLIBRARY%252FMatt%252BHaig%252F9780525559474&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BMIDNIGHT%252BLIBRARY%252BMatt%252BHaig"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525559474&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BMIDNIGHT%2BLIBRARY"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525559474%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BMIDNIGHT%2BLIBRARY%2BMatt%2BHaig%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Matt Haig",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0525559477",
+                            "isbn13": "9780525559474"
+                        },
+                        {
+                            "isbn10": "0525559485",
+                            "isbn13": "9780525559481"
+                        },
+                        {
+                            "isbn10": "0655697071",
+                            "isbn13": "9780655697077"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0525559477",
+                    "primary_isbn13": "9780525559474",
+                    "publisher": "Viking",
+                    "rank": 6,
+                    "rank_last_week": 7,
+                    "sunday_review_link": "",
+                    "title": "THE MIDNIGHT LIBRARY",
+                    "weeks_on_list": 26
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/059346527X?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Amanda Gorman",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 362,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/a95afb91-235c-578c-847a-a98d0af7b6a0",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/059346527X?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+HILL+WE+CLIMB&author=Amanda+Gorman"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593465271"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BHILL%252BWE%252BCLIMB%252FAmanda%252BGorman%252F9780593465271&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BHILL%252BWE%252BCLIMB%252BAmanda%252BGorman"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593465271&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BHILL%2BWE%2BCLIMB"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593465271%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BHILL%2BWE%2BCLIMB%2BAmanda%2BGorman%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Amanda Gorman",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "059346527X",
+                            "isbn13": "9780593465271"
+                        },
+                        {
+                            "isbn10": "0593465288",
+                            "isbn13": "9780593465288"
+                        },
+                        {
+                            "isbn10": "1644734362",
+                            "isbn13": "9781644734360"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "059346527X",
+                    "primary_isbn13": "9780593465271",
+                    "publisher": "Viking",
+                    "rank": 7,
+                    "rank_last_week": 6,
+                    "sunday_review_link": "",
+                    "title": "THE HILL WE CLIMB",
+                    "weeks_on_list": 9
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/1501133543?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Jennifer Weiner",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501133541.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/4c340a7c-4bb0-540b-be7f-1ec8550d197d",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/1501133543?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THAT+SUMMER&author=Jennifer+Weiner"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501133541"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHAT%252BSUMMER%252FJennifer%252BWeiner%252F9781501133541&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHAT%252BSUMMER%252BJennifer%252BWeiner"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501133541&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHAT%2BSUMMER"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501133541%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHAT%2BSUMMER%2BJennifer%2BWeiner%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Jennifer Weiner",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Daisy Shoemaker receives emails intended for a woman leading a more glamorous life and finds there was more to this accident.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "1501133543",
+                            "isbn13": "9781501133541"
+                        },
+                        {
+                            "isbn10": "150113356X",
+                            "isbn13": "9781501133565"
+                        },
+                        {
+                            "isbn10": "1797122096",
+                            "isbn13": "9781797122090"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "1501133543",
+                    "primary_isbn13": "9781501133541",
+                    "publisher": "Atria",
+                    "rank": 8,
+                    "rank_last_week": 8,
+                    "sunday_review_link": "",
+                    "title": "THAT SUMMER",
+                    "weeks_on_list": 3
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0593191226?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Clive Cussler and Jack Du Brul",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593191224.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/f324cd1a-46d1-5527-86a7-7d2839821e0c",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0593191226?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+SABOTEURS&author=Clive+Cussler+and+Jack+Du+Brul"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593191224"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSABOTEURS%252FClive%252BCussler%252Band%252BJack%252BDu%252BBrul%252F9780593191224&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSABOTEURS%252BClive%252BCussler%252Band%252BJack%252BDu%252BBrul"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593191224&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BSABOTEURS"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593191224%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSABOTEURS%2BClive%2BCussler%2Band%2BJack%2BDu%2BBrul%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Clive Cussler and Jack Du Brul",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "The 12th book in the Isaac Bell Adventure series. An assassination attempt reveals a deeper plot at the Panama Canal.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0593191226",
+                            "isbn13": "9780593191224"
+                        },
+                        {
+                            "isbn10": "0593191234",
+                            "isbn13": "9780593191231"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0593191226",
+                    "primary_isbn13": "9780593191224",
+                    "publisher": "Putnam",
+                    "rank": 9,
+                    "rank_last_week": 0,
+                    "sunday_review_link": "",
+                    "title": "THE SABOTEURS",
+                    "weeks_on_list": 1
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/031649934X?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "James Patterson and Maxine Paetro",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499347.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 324,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/aa2486a9-4ecb-5f14-8cd9-4f501581f2ee",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/031649934X?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=21ST+BIRTHDAY&author=James+Patterson+and+Maxine+Paetro"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499347"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252F21ST%252BBIRTHDAY%252FJames%252BPatterson%252Band%252BMaxine%252BPaetro%252F9780316499347&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253D21ST%252BBIRTHDAY%252BJames%252BPatterson%252Band%252BMaxine%252BPaetro"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499347&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3D21ST%2BBIRTHDAY"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499347%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3D21ST%2BBIRTHDAY%2BJames%2BPatterson%2Band%2BMaxine%2BPaetro%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by James Patterson and Maxine Paetro",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "The 21st book in the Women’s Murder Club series. New evidence changes the investigation of a missing mother.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "031649934X",
+                            "isbn13": "9780316499347"
+                        },
+                        {
+                            "isbn10": "0759555699",
+                            "isbn13": "9780759555693"
+                        },
+                        {
+                            "isbn10": "0316499366",
+                            "isbn13": "9780316499361"
+                        },
+                        {
+                            "isbn10": "1549135457",
+                            "isbn13": "9781549135453"
+                        },
+                        {
+                            "isbn10": "1549135449",
+                            "isbn13": "9781549135446"
+                        },
+                        {
+                            "isbn10": "1549112619",
+                            "isbn13": "9781549112614"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "031649934X",
+                    "primary_isbn13": "9780316499347",
+                    "publisher": "Little, Brown",
+                    "rank": 10,
+                    "rank_last_week": 5,
+                    "sunday_review_link": "",
+                    "title": "21ST BIRTHDAY",
+                    "weeks_on_list": 4
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/1538719673?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "David Baldacci",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/011539d9-57f1-5254-81e9-4b8116c7dfde",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/1538719673?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=A+GAMBLING+MAN&author=David+Baldacci"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538719671"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BGAMBLING%252BMAN%252FDavid%252BBaldacci%252F9781538719671&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BGAMBLING%252BMAN%252BDavid%252BBaldacci"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781538719671&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DA%2BGAMBLING%2BMAN"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781538719671%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BGAMBLING%2BMAN%2BDavid%2BBaldacci%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by David Baldacci",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "1538719673",
+                            "isbn13": "9781538719671"
+                        },
+                        {
+                            "isbn10": "1538719649",
+                            "isbn13": "9781538719640"
+                        },
+                        {
+                            "isbn10": "1549160583",
+                            "isbn13": "9781549160585"
+                        },
+                        {
+                            "isbn10": "1549160575",
+                            "isbn13": "9781549160578"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "1538719673",
+                    "primary_isbn13": "9781538719671",
+                    "publisher": "Grand Central",
+                    "rank": 11,
+                    "rank_last_week": 10,
+                    "sunday_review_link": "",
+                    "title": "A GAMBLING MAN",
+                    "weeks_on_list": 6
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/1250178606?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Kristin Hannah",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 329,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/c34834c6-f957-5b0b-8fd7-abd9c35eebed",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/1250178606?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+FOUR+WINDS&author=Kristin+Hannah"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178602"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BFOUR%252BWINDS%252FKristin%252BHannah%252F9781250178602&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BFOUR%252BWINDS%252BKristin%252BHannah"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250178602&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BFOUR%2BWINDS"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250178602%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BFOUR%2BWINDS%2BKristin%2BHannah%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Kristin Hannah",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "1250178606",
+                            "isbn13": "9781250178602"
+                        },
+                        {
+                            "isbn10": "1250178622",
+                            "isbn13": "9781250178626"
+                        },
+                        {
+                            "isbn10": "1250317258",
+                            "isbn13": "9781250317254"
+                        },
+                        {
+                            "isbn10": "1643588230",
+                            "isbn13": "9781643588230"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "1250178606",
+                    "primary_isbn13": "9781250178602",
+                    "publisher": "St. Martin's",
+                    "rank": 12,
+                    "rank_last_week": 9,
+                    "sunday_review_link": "",
+                    "title": "THE FOUR WINDS",
+                    "weeks_on_list": 17
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "V.E. Schwab",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/c9bf2d03-7b78-58d8-a9d7-a9b897d08427",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+INVISIBLE+LIFE+OF+ADDIE+LARUE&author=V.E.+Schwab"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780765387561"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BINVISIBLE%252BLIFE%252BOF%252BADDIE%252BLARUE%252FV.E.%252BSchwab%252F9780765387561&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BINVISIBLE%252BLIFE%252BOF%252BADDIE%252BLARUE%252BV.E.%252BSchwab"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780765387561&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780765387561%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE%2BV.E.%2BSchwab%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by V.E. Schwab",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0765387565",
+                            "isbn13": "9780765387561"
+                        },
+                        {
+                            "isbn10": "1250793971",
+                            "isbn13": "9781250793997"
+                        },
+                        {
+                            "isbn10": "1250793998",
+                            "isbn13": "9781250795182"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0765387565",
+                    "primary_isbn13": "9780765387561",
+                    "publisher": "Tor/Forge",
+                    "rank": 13,
+                    "rank_last_week": 11,
+                    "sunday_review_link": "",
+                    "title": "THE INVISIBLE LIFE OF ADDIE LARUE",
+                    "weeks_on_list": 31
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Brit Bennett",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 331,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/6db17f1d-4bd0-562a-80ef-efa2a272cf64",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0525536299?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+VANISHING+HALF&author=Brit+Bennett"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536291"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BVANISHING%252BHALF%252FBrit%252BBennett%252F9780525536291&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BVANISHING%252BHALF%252BBrit%252BBennett"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525536291&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BVANISHING%2BHALF"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525536291%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BVANISHING%2BHALF%2BBrit%2BBennett%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Brit Bennett",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0525536299",
+                            "isbn13": "9780525536291"
+                        },
+                        {
+                            "isbn10": "0593329430",
+                            "isbn13": "9780593329436"
+                        },
+                        {
+                            "isbn10": "0593416961",
+                            "isbn13": "9780593416969"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0525536299",
+                    "primary_isbn13": "9780525536291",
+                    "publisher": "Riverhead",
+                    "rank": 14,
+                    "rank_last_week": 0,
+                    "sunday_review_link": "",
+                    "title": "THE VANISHING HALF",
+                    "weeks_on_list": 49
+                },
+                {
+                    "age_group": "",
+                    "amazon_product_url": "https://www.amazon.com/dp/0316530239?tag=NYTBSREV-20",
+                    "article_chapter_link": "",
+                    "asterisk": 0,
+                    "author": "Jake Tapper",
+                    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316530231.jpg",
+                    "book_image_height": 500,
+                    "book_image_width": 323,
+                    "book_review_link": "",
+                    "book_uri": "nyt://book/9fb2a8c7-9d97-50e5-8107-bf0e35e82b10",
+                    "buy_links": [
+                        {
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/dp/0316530239?tag=NYTBSREV-20"
+                        },
+                        {
+                            "name": "Apple Books",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+DEVIL+MAY+DANCE&author=Jake+Tapper"
+                        },
+                        {
+                            "name": "Barnes and Noble",
+                            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316530231"
+                        },
+                        {
+                            "name": "Books-A-Million",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BDEVIL%252BMAY%252BDANCE%252FJake%252BTapper%252F9780316530231&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BDEVIL%252BMAY%252BDANCE%252BJake%252BTapper"
+                        },
+                        {
+                            "name": "Bookshop",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316530231&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BDEVIL%2BMAY%2BDANCE"
+                        },
+                        {
+                            "name": "IndieBound",
+                            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316530231%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BDEVIL%2BMAY%2BDANCE%2BJake%2BTapper%26aff%3DNYT"
+                        }
+                    ],
+                    "contributor": "by Jake Tapper",
+                    "contributor_note": "",
+                    "dagger": 0,
+                    "description": "The second book in the Charlie and Margaret Marder Mystery series. Attorney General Robert Kennedy asks the Marders to look into a threat, which brings them into contact with the Rat Pack and the Church of Scientology.",
+                    "first_chapter_link": "",
+                    "isbns": [
+                        {
+                            "isbn10": "0316530239",
+                            "isbn13": "9780316530231"
+                        },
+                        {
+                            "isbn10": "0316530255",
+                            "isbn13": "9780316530255"
+                        }
+                    ],
+                    "price": "0.00",
+                    "primary_isbn10": "0316530239",
+                    "primary_isbn13": "9780316530231",
+                    "publisher": "Little, Brown",
+                    "rank": 15,
+                    "rank_last_week": 12,
+                    "sunday_review_link": "",
+                    "title": "THE DEVIL MAY DANCE",
+                    "weeks_on_list": 3
+                }
+            ],
+            "corrections": [],
+            "display_name": "Hardcover Fiction",
+            "list_name": "Hardcover Fiction",
+            "list_name_encoded": "hardcover-fiction",
+            "next_published_date": "",
+            "normal_list_ends_at": 15,
+            "previous_published_date": "2021-06-06",
+            "published_date": "2021-06-13",
+            "published_date_description": "latest",
+            "updated": "WEEKLY"
+        },
+        "status": "OK"
+    },
+    "headers": {
+        "content-type": "application/json; charset=UTF-8"
+    },
+    "request": {},
+    "status": 200,
+    "statusText": "OK"
+}
