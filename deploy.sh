@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:Heredu/Heredu.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/heredu/Frontend-Challenge-2021.git main:gh-pages
+git push -f git@github.com:heredu/Frontend-Challenge-2021.git main:gh-pages
 
 cd -
